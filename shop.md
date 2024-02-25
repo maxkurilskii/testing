@@ -4,5 +4,6 @@ meat
 fruits
 pastry
 elephant
+sofa
 
 
