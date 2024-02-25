@@ -5,5 +5,7 @@ fruits
 pastry
 elephant
 toys
+sofa
+
 
 
