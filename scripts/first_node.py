@@ -8,5 +8,5 @@ while(True):
  current_time = datetime.now().strftime("%H:%M:%S")
  if current_time == next_time:
    print("Текущее время:", current_time)
-   next_time = current_time+6
+   next_time = current_time+10
 
